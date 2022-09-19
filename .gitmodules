@@ -8,8 +8,3 @@
 	url = https://github.com/lpantano/degreport
 	shallow = true
 	registered = true
-[submodule "isomiRs"]
-	path = isomiRs
-	url = https://github.com/lpantano/isomirs
-	shallow = true
-	registered = true
