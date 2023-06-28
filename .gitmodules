@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DEGreport"]
 	path = DEGreport
 	url = https://github.com/lpantano/degreport
-	shallow = true
-	registered = true
 [submodule "isomiRs"]
 	path = isomiRs
 	url = https://github.com/lpantano/isomirs
-	shallow = true
-	registered = true
